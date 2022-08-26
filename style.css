@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: "BlackMagicSlabSerif";
+  font-style: normal;
+  font-weight: 400;
+  src: local("BlackMagicSlabSerif_PUA"), url("BlackMagicSlabSerif_PUA.woff") format("woff");
+}
+@font-face { font-family: "customfontspwed"; font-display: swap;  src: url("SP-wed-font.otf") format("opentype"); }
